@@ -14,7 +14,7 @@ class Dog
 end
 
 # class Dog
-  
+
   #or, use an attr_accessor!
 
    # attr_accessor :name
